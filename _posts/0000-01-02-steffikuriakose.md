@@ -1,1 +1,6 @@
-
+.....
+layout: slide
+title: "welcome to our second slide"
+.....
+Replace line 5 with something better
+use the left arrow to go back!
